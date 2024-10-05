@@ -1,0 +1,10 @@
+{
+  "domain": "openGate_async",
+  "name": "openGate (async)",
+  "codeowners": [],
+  "dependencies": [],
+  "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/openGate_async/",
+  "iot_class": "local_polling",
+  "requirements": [],
+  "version": "0.1.0"
+}
