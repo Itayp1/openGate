@@ -5,7 +5,7 @@
   "dependencies": [],
   "documentation": "https://github.com/home-assistant/example-custom-config/tree/master/custom_components/openGate_async/",
   "issue_tracker": "https://github.com/balloob/hue/issues",
-
+  "config_flow": true,
   "iot_class": "local_polling",
   "requirements": [],
   "version": "0.1.0"
